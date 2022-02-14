@@ -16,7 +16,7 @@ let charArr = [
     "G"
   ];
 
-  let maxCharCount = 300;
+  let maxCharCount = 305;
   console.log(maxCharCount);
   let fallingCharArr = [];
   let fontSize = 12;
